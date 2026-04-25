@@ -1,4 +1,4 @@
-# rnCryptoViewer
+# Crypto Viewer — Minimal Crypto Watchlist
 
 A minimal and modern **React Native + Expo** crypto watchlist app that fetches market data from CoinGecko and stores selected assets locally on the device.
 
