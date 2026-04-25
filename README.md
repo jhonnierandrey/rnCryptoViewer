@@ -2,7 +2,7 @@
 
 A minimal and modern **React Native + Expo** crypto watchlist app that fetches market data from CoinGecko and stores selected assets locally on the device.
 
-![Crypto Viewer](https://github.com/jhonnierandrey/rnCryptoViewer/blob/main/src/assets/cryptoviewer-preview.png?raw=true")
+![Crypto Viewer](https://github.com/jhonnierandrey/rnCryptoViewer/blob/main/src/assets/cryptoviewer-preview.png?raw=true)
 
 This project is a refreshed version of the original `rnCryptoViewer` app, rebuilt with Expo to simplify development, modernize the UI, remove dependency on the previous Messari API, and provide cross-platform support for iOS, Android, and Web.
 
